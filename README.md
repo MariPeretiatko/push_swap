@@ -26,8 +26,7 @@ following operations:
 
 ## Algorithm
 
-Algorithm consist in counting minimal possible number of operations needed to move each element from `stack a` to `stack b` in a sorted way. Then element with the minimal number of operations is moved to `stack b`. When there are only 3 elements left in `stack a`, these 3 numbers in `stack a` sort and elements in `stack b` are moved back to `stack a`.
- 
+
 ## Launching the program
 
 To launch the program use command `make`. Then execute `./push_swap 1 4 2 3 5` numbers can be of your choice. The program will then print the instructions needed to sort the stack.  
