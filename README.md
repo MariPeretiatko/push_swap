@@ -7,10 +7,10 @@ The "push_swap" project aims to sort a stack of unique numbers with the minimal 
 
 The objective is to arrange the numbers in ascending order within stack "a". To achieve this, the following operations are permitted:
 # 100
-#![100](https://github.com/MariPeretiatko/push_swap/assets/83024504/59a088d1-54f4-429d-84de-77916a90f566)
+![100](https://github.com/MariPeretiatko/push_swap/assets/83024504/59a088d1-54f4-429d-84de-77916a90f566)
 
 # 500
-#![500](https://github.com/MariPeretiatko/push_swap/assets/83024504/c5cae7c7-a368-4a85-92af-78cf3b029e31)
+![500](https://github.com/MariPeretiatko/push_swap/assets/83024504/c5cae7c7-a368-4a85-92af-78cf3b029e31)
 
 
 | Operation | Description |
