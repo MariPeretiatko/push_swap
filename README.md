@@ -30,6 +30,6 @@ I utilized two sorting algorithms: Quick Sort and an implementation of the Turk 
 
 ## Launching the program
 
-To launch the program use command `make`. Then execute `./push_swap 1 4 2 3 5` numbers can be of your choice. The program will then print the instructions needed to sort the stack.  
-To check sorting run `make bonus`. Then you can execute `ARG="1 4 2 3 5"; ./push_swap $ARG | ./checker $ARG` and see if instructions actually sort the stack. If yes, you will see `OK`, otherwise `KO`.
-Or you can run `./checker 1 4 2 3 5` then the program will wait for the instructions, type each instruction pressing `Enter`, to stop recieving intsructions press `Ctrl + D`
+To initiate the program, enter the command "make". Then execute "./push_swap 1 4 2 3 5" with numbers of your choice. The program will subsequently display the instructions required to sort the stack.
+
+To verify the sorting, execute "make bonus". Then run the command "ARG="1 4 2 3 5"; ./push_swap $ARG | ./checker $ARG" and observe whether the instructions effectively sort the stack. If successful, you will see "OK"; otherwise, "KO". Alternatively, you can execute "./checker 1 4 2 3 5", and the program will await instructions. Type each instruction and press Enter. To cease receiving instructions, press Ctrl + D.
