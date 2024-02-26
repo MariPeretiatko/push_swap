@@ -25,6 +25,7 @@ following operations:
 | **rrr** | rra and rrb at the same time. |
 
 ## Algorithm
+I utilized two sorting algorithms: Quick Sort and an implementation of the Turk Algorithm. Quick Sort handles the initial sorting phase, while the Turk Algorithm, which prioritizes the cost of swapping arguments, is employed for the subsequent sorting process.
 
 
 ## Launching the program
