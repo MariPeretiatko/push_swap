@@ -1,5 +1,6 @@
 # 42 push_swap
 The "push_swap" project aims to sort a stack of unique numbers with the minimal number of allowed operations. Here are the specifications:
+
     Two stacks are involved, named "a" and "b".
     Stack "a" initially contains a random number of unique positive and/or negative integers.
     Stack "b" starts empty.
