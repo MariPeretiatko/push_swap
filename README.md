@@ -1,14 +1,11 @@
 # 42 push_swap
-Push_swap is a project which allows to sort a stack of unique numbers using minimal number of allowed operations
+The "push_swap" project aims to sort a stack of unique numbers with the minimal number of allowed operations. Here are the specifications:
 
-![visualizer](push_swap.gif)
+    Two stacks are involved, named "a" and "b".
+    Stack "a" initially contains a random number of unique positive and/or negative integers.
+    Stack "b" starts empty.
 
-* There are 2 stacks named a and b.
-* The `stack a` contains a random amount of unique negative and/or positive numbers.
-* The `stack b` is empty.
-
-The goal is to sort in ascending order numbers into `stack a`. To do so there are
-following operations:
+The objective is to arrange the numbers in ascending order within stack "a". To achieve this, the following operations are permitted:
 
 | Operation | Description |
 | --------- | ----------- |
